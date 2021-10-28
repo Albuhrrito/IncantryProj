@@ -1,0 +1,3 @@
+displayName = Incantry
+author = albuhrrito
+version = 0.1
