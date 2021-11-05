@@ -1,7 +1,7 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace Incantry.Items
+namespace Incantry.Items.Weapons
 {
 	public class BasicSword : ModItem
 	{
